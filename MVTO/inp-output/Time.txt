@@ -1,0 +1,26 @@
+
+Time Taken By Miner Threads:
+THREAD 0 = 8662 microseconds
+THREAD 1 = 8703 microseconds
+THREAD 2 = 8716 microseconds
+THREAD 3 = 8641 microseconds
+THREAD 4 = 8622 microseconds
+
+Time Taken By Validator Threads:
+THREAD 0 = 2307 microseconds
+THREAD 1 = 2318 microseconds
+THREAD 2 = 2248 microseconds
+THREAD 3 = 2239 microseconds
+THREAD 4 = 2219 microseconds
+
+[ # Proposal Shared Objects = 30 ]
+[ # Threads = 5 ]
+[ # Total AUs = 5000 ]
+[ # Total Aborts = 2605 ]
+
+
+
+Average Time Taken by a Miner Thread = 8668.8 microseconds
+Average Time Taken by a Validator Thread = 2266.2 microseconds
+
+Total Average Time (Miner + Validator)  = 10935 microseconds
